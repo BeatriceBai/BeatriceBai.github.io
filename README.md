@@ -1,4 +1,4 @@
-# Beatrice's GitHub Main Repository
+# ApexCDS
 
 Welcome to Beatrice's GitHub! This repository serves as a central hub for organizing and showcasing my projects. 
 
